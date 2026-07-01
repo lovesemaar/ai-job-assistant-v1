@@ -4,6 +4,10 @@
 
 AI Job Assistant v1 is a beginner-friendly Python tool that analyzes a job description and identifies common AI/software skills.
 
+## Version 2 Upgrade
+
+This version improves the original project by grouping skills into categories and recommending a project idea based on missing skills.
+
 ## Problem
 
 Freshers often struggle to understand what skills a job description is asking for. This tool helps break the job description into visible skill matches and skill gaps.
