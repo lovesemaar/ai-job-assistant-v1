@@ -37,8 +37,7 @@ ai-job-assistant-v1/
 Clone the repository:
 
 ```bash
-git clone YOUR_REPO_URL
-cd ai-job-assistant-v1
+git clone https://github.com/lovesemaar/ai-job-assistant-v1.git
 ```
 
 Run the project:
