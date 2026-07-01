@@ -62,25 +62,42 @@ py main.py
 We are looking for a fresher who knows Python, SQL, GitHub, APIs, AI tools, Docker, and FastAPI. Knowledge of RAG and LLMs is a plus.
 ```
 
-## Example Output
+## Sample Run
 
 ```txt
+AI Job Assistant v2
+-------------------
+Paste a short job description here:
+
+We are hiring a remote AI automation intern. The candidate should know Python, GitHub, APIs, LLMs, RAG, Docker, and workflow automation.
+
 Skills found in job description:
-- Python
-- SQL
-- FastAPI
-- AI
-- LLM
-- RAG
-- Docker
-- GitHub
-- API
+- Python (Programming)
+- AI (AI/GenAI)
+- LLM (AI/GenAI)
+- RAG (AI/GenAI)
+- API (Backend)
+- Docker (DevOps)
+- GitHub (DevOps)
+- Workflow Automation (Automation)
 
 Skills you may need to improve:
-- Prompt Engineering
+- JavaScript (Programming)
+- SQL (Programming)
+- Prompt Engineering (AI/GenAI)
+- Embeddings (AI/GenAI)
+- FastAPI (Backend)
+- REST (Backend)
+- CI/CD (DevOps)
+- n8n (Automation)
+- Make (Automation)
+- Zapier (Automation)
+
+Recommended project idea:
+Build a PDF RAG chatbot that answers questions from uploaded documents.
 
 Suggested next step:
-Build one small project that proves 2-3 of the missing skills.
+Choose one missing skill and build a small project that proves it.
 ```
 
 ## What I Learned
